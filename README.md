@@ -12,6 +12,8 @@ MULTIPY BOT is a modular educational robotics platform built around a single cus
 </p>
 
 ---
+<img width="1536" height="1024" alt="Multipybot" src="https://github.com/user-attachments/assets/279b1532-e98b-4044-8f94-0abdb8fb0c3f" />
+
 
 ## Table of Contents
 
